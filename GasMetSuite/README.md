@@ -23,9 +23,10 @@ Now, you are able to access the web project through browser.
 
 ## GUI: How it works
 
- 1. Upload your project                                 
-and submit it for scan.  
+ 1. Upload your project and submit it for scan.  
+ 
      ![home](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetSuite/image/Immagine1.png)
  2. Wait for a while until Gasmet checks your file for calculate metric.
  3. See the results of analysis with indicated lines of code and metric description:
+ 
     ![Result](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetSuite/image/Immagine2.png)
