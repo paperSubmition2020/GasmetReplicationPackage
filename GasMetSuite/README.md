@@ -11,7 +11,7 @@ Gasmet scans a .sol file as input file and performs analysis to derive various m
 
 ## How to deploy the war file
 
-In this folder, there is the GasMetSuite.war file, that contains all the contents of the web application.
+The GasMetSuite.war file contains all the contents of the web application.
 There are two ways to deploy the war file:
 
 	   1. by server console panel;
