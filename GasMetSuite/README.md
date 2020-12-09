@@ -1,5 +1,5 @@
 # QuickStart
-In this folder, there are GasMetSuite.zip file that contains GasMet.jar file and GasMetSuite.war file.
+In this folder, there is GasMetSuite.zip file that contains GasMet.jar file and GasMetSuite.war file.
 ## How to use the standalone version
 
 You need at least Java 8 to be able to compile and run this tool.
