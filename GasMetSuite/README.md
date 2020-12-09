@@ -31,6 +31,6 @@ Now, you are able to access the web project through browser.
  
      ![home](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetSuite/image/Immagine1.png)
  2. Wait for a while until Gasmet checks your file for calculate metric.
- 3. See the results of analysis with indicated lines of code and metric description:
+ 3. See the results of analysis with indicated lines of code, metric and cost smell description:
  
     ![Result](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetSuite/image/Immagine2.png)
