@@ -8,7 +8,9 @@ Then, just run:
 
     java -jar GasMet.jar
 without command-line arguments:
+
 ![commandLine](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetSuite/image/commandLine.png)
+
 Gasmet scans a .sol file as input file and performs analysis to derive various metrics able to capture information related to each smell defined in the study.
 
 ## How to deploy the war file
