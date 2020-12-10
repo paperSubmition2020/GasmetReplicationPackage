@@ -21,7 +21,7 @@ There are two ways to deploy the war file:
 	   1. by server console panel;
 	   2. by manually having the war file in specific folder of server.
 	   
-In our sperimentation, we use [wildfly-21.0.0.Final server](https://www.wildfly.org/downloads/). 
+In our experiment, we use [wildfly-21.0.0.Final server](https://www.wildfly.org/downloads/). 
 If you want to deploy the war file in  **wildfly**  server manually, move or copy the `GasMetSuite.war` file to the `standalone\deployments` folder in the WildFly distribution.
 Now, you are able to access the web project through browser.
 
