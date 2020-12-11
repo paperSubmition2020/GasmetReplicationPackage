@@ -2,7 +2,7 @@
 
 Description of the content:
 
- 1. "*GasMetSuite*": the folder contains the prototype Java tool able to parse Solidity smart contracts and automatically compute
+ 1. "*GasMetSuite*": contains the prototype Java tool able to parse Solidity smart contracts and automatically compute
  the metrics in the GasMet suite, generate the Ethereum development environment and collect data regarding gas consumption. We provide a user interface that automatically checks Smart Contracts for code smell and bad practices, it highlights them in the code and gives a detailed explanation of the metric corresponding to the cost smell.
  We use [Maven](https://maven.apache.org/) to manage dependencies and compile the project;
  2. "*csvOutput*": contains all the data we obtained by running the Java code of GasMet;
