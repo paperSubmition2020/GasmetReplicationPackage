@@ -10,7 +10,7 @@
   <!-- JQVMap -->
   <link rel="stylesheet" href="<c:url value="/resources/plugins/jqvmap/jqvmap.min.css"/>">
   <!-- Theme style -->
-  <link rel="stylesheet" href="<c:url value="/resources/dist/css/adminlte.min.css"/>">
+  <link rel="stylesheet" href="<c:url value="/resources/dist1/css/adminlte.min.css"/>">
   <!-- overlayScrollbars -->
   <link rel="stylesheet" href="<c:url value="/resources/plugins/overlayScrollbars/css/OverlayScrollbars.min.css"/>">
   <!-- Daterange picker -->

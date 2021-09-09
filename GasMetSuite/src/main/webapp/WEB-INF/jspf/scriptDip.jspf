@@ -27,8 +27,8 @@
 <!-- overlayScrollbars -->
 <script src="<c:url value="/resources/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"/>"></script>
 <!-- AdminLTE App -->
-<script src="<c:url value="/resources/dist/js/adminlte.js"/>"></script>
+<script src="<c:url value="/resources/dist1/js/adminlte.js"/>"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-<script src="<c:url value="/resources/dist/js/pages/dashboard.js"/>"></script>
+<script src="<c:url value="/resources/dist1/js/pages/dashboard.js"/>"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="<c:url value="/resources/dist/js/demo.js"/>"></script>
+<script src="<c:url value="/resources/dist1/js/demo.js"/>"></script>
