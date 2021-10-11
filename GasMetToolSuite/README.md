@@ -9,7 +9,7 @@ Then, just run:
     java -jar GasMet.jar
 without command-line arguments:
 
-![commandLine](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetSuite/image/commandLine.png)
+![commandLine](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetToolSuite/image/commandLine.png)
 
 Gasmet scans a .sol file as input file and performs analysis to derive various metrics able to capture information related to each smell defined in the study.
 
@@ -29,8 +29,8 @@ Now, you are able to access the web project through the browser.
 
  1. Upload your project and submit it for the scan.  
  
-     ![home](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetSuite/image/Immagine1.png)
+     ![home](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetToolSuite/image/Immagine1.png)
  2. Wait for a while until Gasmet checks your file to calculate the metrics.
  3. See the results of the analysis with indicated lines of code, metric, and cost smell description:
  
-    ![Result](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetSuite/image/Immagine2.png)
+    ![Result](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetToolSuite/image/Immagine2.png)
