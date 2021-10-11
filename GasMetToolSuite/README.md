@@ -1,19 +1,37 @@
 # QuickStart
 In this folder, there is the GasMetSuite.zip file that contains the GasMet.jar file and the GasMetSuite.war file.
+
 ## How to use the standalone version
 
 You need at least Java 8 to be able to compile and run this tool.
 Download the GasMet.jar file.
-Then, just run:
+### 1) Using via GUI
+Double click on 'GasMet.jar'. When  launching  the  GUI,  a  home  screen  containing two buttons is visualized (as shown in next figure).
 
-    java -jar GasMet.jar
-    java -jar GasMet.jar -p <path directory smart contracts or path single smart contract> -o <choose a name of result file csv>
+![Start2](https://user-images.githubusercontent.com/19287382/121712524-1fcbd500-cadc-11eb-8310-898d8c064bc2.PNG)
 
-without command-line arguments:
+The button 'Upload smart contract' allows users to select a smart contract (or a set of smart  contracts) and compute the readability metrics in each function(s)  comprised  in  the selected smart contract(s).
+
+![image](https://user-images.githubusercontent.com/19287382/121713357-1000c080-cadd-11eb-832f-c198c25657dc.png)
+
+When click on button 'Open', the tool calculate redability metric and show result into table (as shown in next figure).
+
+![image](https://user-images.githubusercontent.com/19287382/121713923-a9c86d80-cadd-11eb-91ec-ea0ac3479019.png)
+
+When you click the 'Export csv' button, the results are exported to a CSV file.
+
+### 2) Using via command line
+
+The built jar requires two parameters:
+ 1) Path directory smart contracts or path single smart contract;
+ 2) Name of result file csv.
+ 
+```
+java -jar GasMet.jar -p <path directory smart contracts or path single smart contract> -o <choose a name of result file csv>
+```
 
 ![commandLine](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetToolSuite/image/commandLine.png)
 
-Gasmet scans a .sol file as input file and performs analysis to derive various metrics able to capture information related to each smell defined in the study.
 
 ## How to deploy the war file
 
