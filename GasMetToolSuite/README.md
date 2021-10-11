@@ -7,6 +7,8 @@ Download the GasMet.jar file.
 Then, just run:
 
     java -jar GasMet.jar
+    java -jar GasMet.jar -p <path directory smart contracts or path single smart contract> -o <choose a name of result file csv>
+
 without command-line arguments:
 
 ![commandLine](https://github.com/paperSubmition2020/GasmetReplicationPackage/blob/master/GasMetToolSuite/image/commandLine.png)
