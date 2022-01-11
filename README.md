@@ -1,4 +1,4 @@
-# Replication Package for the paper entitled "Profiling Gas Leaks in Solidity Smart Contracts".
+# Replication Package for the paper entitled "Profiling Gas Consumption in Solidity Smart Contracts".
 
 Description of the content:
 
